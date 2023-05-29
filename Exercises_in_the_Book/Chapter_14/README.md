@@ -1,4 +1,4 @@
--   [Question 2](\14.2\main.c)
--   [Question 3](\14.3\main.c)
--   [Question 4](\14.4\main.c)
--   [Question 6](\14.6\main.c)
+-   [Question 2](../Chapter_14/14.2/main.c)
+-   [Question 3](../Chapter_14/14.3/main.c)
+-   [Question 4](../Chapter_14/14.4/main.c)
+-   [Question 6](../Chapter_14/14.6/main.c)
