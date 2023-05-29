@@ -1,5 +1,0 @@
-Account Number      Name           Surname        Balance        
-100                 Alan           Jones          375.31
-300                 Mary           Smith          98.13
-500                 Sam            Sharp          0.00
-700                 Suzy           Green          -14.22

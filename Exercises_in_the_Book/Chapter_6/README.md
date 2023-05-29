@@ -1,0 +1,8 @@
+-   [Question 10](\6.10\main.c)
+-   [Question 11](\6.11\main.c)
+-   [Question 19](\6.19\main.c)
+-   [Question 22](\6.22\main.c)
+-   [Question 23](\6.23\main.c)
+-   [Question 28](\6.28\main.c)
+-   [Question 32](\6.32\main.c)
+-   [Question 37](\6.37\main.c)

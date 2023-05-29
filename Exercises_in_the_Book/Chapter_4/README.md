@@ -1,0 +1,7 @@
+-   [Question 18](\4.18\main.c)
+-   [Question 21](\4.21\main.c)
+-   [Question 25](\4.25\main.c)
+-   [Question 26](\4.26\main.c)
+-   [Question 27](\4.27\main.c)
+-   [Question 31](\4.31\main.c)
+-   [Question 33](\4.33\main.c)

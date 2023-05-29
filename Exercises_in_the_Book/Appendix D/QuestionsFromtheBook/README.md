@@ -1,0 +1,3 @@
+-   [Question 5 - Selection Sort](/D5/main.c)
+-   [Question 6 - Bucket Sort](/D6/main.c)
+-   [Question 7 - Quick Sort](/D7/main.c)
